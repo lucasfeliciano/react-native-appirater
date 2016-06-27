@@ -1,9 +1,6 @@
 {
     "author": "Jonathan Wynne",
     "description": "react native wrapper around ios app review library",
-    "devDependencies": {
-        "react-native": "^0.13.0"
-    },
     "keywords": [
         "react-native",
         "ios"
@@ -11,9 +8,6 @@
     "license": "MIT",
     "main": "appirater.js",
     "name": "react-native-appirater",
-    "peerDependencies": {
-        "react-native": "^0.13.2"
-    },
     "private": "false",
     "repository": {
         "type": "git",
